@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mile High Retro + PC",
+    "description": "",
+    "home_page_url": "https://milehighretro.github.io",
+    "feed_url": "https://milehighretro.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Simon and Ethan"
+    },
+    "items": [
+    ]
+}
